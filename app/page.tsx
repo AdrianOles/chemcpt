@@ -10,7 +10,7 @@ export default function Home() {
         <source src='vidoes/gas.mp4' type="video/mp4" />
       </video>
       
-      <div className='flex-col flex md:p-20 px-14 py-20 text-white gap-16 h-full'>
+      <div className='flex-col flex md:p-20 px-12 py-20 text-white gap-16 h-full'>
         <div className='text-[3rem] md:text-[5rem] font-semibold z-50'>
           Gay-Lussac's Law
         </div>
