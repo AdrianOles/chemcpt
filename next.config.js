@@ -2,7 +2,8 @@
 const nextConfig = {
     images: {
         domains: [
-            "static.wixstatic.com"
+            "static.wixstatic.com",
+            "lh6.googleusercontent.com"
         ]
     }
 }
