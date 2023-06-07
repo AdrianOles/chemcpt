@@ -5,7 +5,7 @@ import Icon from '@/components/Icon'
 export default function Home() {
   return (
     <div className='flex-col relative h-screen w-screen'>
-      <video autoPlay muted loop playsInline
+      <video autoPlay muted loop playsInline src='vidoes/gas.mp4' poster="vidoes/loading.jpg"
         className="w-screen h-screen object-cover absolute z-1 brightness-[60%]">
         <source src='vidoes/gas.mp4' type="video/mp4" />
       </video>
